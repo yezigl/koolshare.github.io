@@ -3,3 +3,5 @@ tunnel
 .lconfig.json.js
 .htaccess
 .user.ini
+.project
+.settings
